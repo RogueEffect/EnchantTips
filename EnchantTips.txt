@@ -1,0 +1,8 @@
+## Title: EnchantTips
+## Description: Display potency rune levels and unknown rune translations
+## Version: 0.6.9
+## Author: RogueEffect
+## APIVersion: 101032
+
+## Core:
+EnchantTips.lua
